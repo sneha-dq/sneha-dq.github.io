@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leveraging DataOps and Automated Data Quality Frameworks for Modern and Complex Data Ecosystems"
+title: "DataOps & Automated DQ Frameworks to win the Modern Data Warfare"
 date: 2025-07-26 10:00:00 +0530
 categories: [dataops, data-quality]
 tags: [dataops, devops-for-data, data-quality, data-validation, dq-frameworks, automation, pipelines, data-engineering]
