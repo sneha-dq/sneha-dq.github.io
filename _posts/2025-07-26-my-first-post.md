@@ -1,5 +1,10 @@
-<title>DataOps</title>
-
+---
+layout: post
+title: "DataOps"
+date: 2025-07-26 10:00:00 +0530
+categories: [blog]
+tags: [dataops, devopsfordata, dataquality, datapipelines]
+---
 <h2>What is DataOps?</h2>
 <b>Primary focus:</b> Data lifecycle and analytics workflows
 <b>What’s deployed:</b> Data pipelines, transformations, data quality checks, SQL, config
