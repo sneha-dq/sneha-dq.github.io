@@ -18,8 +18,7 @@ title: The Data Conundrum! # the main title
 
 tagline: Paving the way from Data Chaos to Data Control # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
-Data is the backbone of every modern system. It can handicap or empower basis how you approach it. One wrong turn, can lead to a catastrophic end and a well-thought approach/strategy can make you a stalwart in your domain. This blog is bringing together the different pieces of this data puzzle to reap meaningful insights and decisions.
+description: Data is the backbone of every modern system. It can handicap or empower basis how you approach it. One wrong turn, can lead to a catastrophic end and a well-thought approach/strategy can make you a stalwart in your domain. This blog is bringing together the different pieces of this data puzzle to reap meaningful insights and decisions.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
