@@ -2,8 +2,9 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+title: About Me
 ---
 
-A Data Enthusiast at heart, I enjoy the challenges the evolving Data Landscape brings with it. I have spent nearly two decades in the IT industry and specialize in streamlining the Data Quality adherence for investment banking clients. 
+A **data enthusiast** at heart, I thrive on the **challenges and opportunities** the ever-evolving **data landscape** presents. With **nearly two decades of experience** in the IT industry, I specialize in **streamlining Data Quality practices** for leading **investment banking clients**—ensuring that data remains **accurate**, **trustworthy**, and **actionable**.
 
-Profoundly intrigued by the scale and disruption AI is bringing in this space. 
+I’m deeply fascinated by the **scale**, **speed**, and **disruption** AI is bringing to this space, and I’m passionate about staying at the **forefront of this data revolution**.
