@@ -1,43 +1,45 @@
-# Chirpy Starter
+# The Data Conundrum!
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+**Paving the way from Data Chaos to Data Control**
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+Welcome to *The Data Conundrum!* — a blog dedicated to exploring the evolving world of **DataOps**, **Data Quality Engineering**, and **automated frameworks** that enable scalable, resilient, and high-trust data systems.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+Created and maintained by [Sneha Shrivastav](https://www.linkedin.com/in/sneha-shrivastav), a seasoned IT professional with nearly two decades of experience helping global investment banking clients solve complex data quality challenges.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+---
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
+## ✨ About This Blog
+This blog shares practical insights, frameworks, and real-world experiences on:
+
+- Designing and implementing **automated data quality checks**
+- Leveraging **DataOps principles** in modern data teams
+- Exploring tools like **Great Expectations, dbt, Airflow, Spark**
+- Ensuring trust in data with robust testing and observability
+- Commentary on how **AI is reshaping the data engineering space**
+
+Whether you're a data engineer, architect, or just someone trying to make sense of the data mess — this space is for you.
+
+---
+
+## 🧱 Tech Stack
+This blog is built using the [Chirpy Jekyll Theme](https://github.com/cotes2020/jekyll-theme-chirpy) and hosted on GitHub Pages.
+
+To run it locally:
+```bash
+git clone https://github.com/sneha-dq/sneha-dq.github.io.git
+cd sneha-dq.github.io
+bundle install
+bundle exec jekyll s
 ```
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+---
 
-## Usage
+## 📬 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/snehashrivastav)
+- 📫 Blog: [https://sneha-dq.github.io](https://sneha-dq.github.io)
+- 📚 Featured post: [Modern Data Warfare: Win with DataOps & Automated DQ Frameworks](https://sneha-dq.github.io/posts/dataops-automated-dq/)
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+---
 
-## Contributing
-
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+## 🖼️ License
+This project is open source and available under the [MIT License](LICENSE).
