@@ -1,11 +1,12 @@
 ---
 layout: post
-Title: “Modern Data Warfare: Win with DataOps & Automated DQ Frameworks”
-Subtitle: “Why traditional approaches no longer work — and what a resilient data strategy looks like”
+title: "Modern Data Warfare: Win with DataOps & Automated DQ Frameworks"
+subtitle: "Why traditional approaches no longer work — and what a resilient data strategy looks like"
 date: 2025-07-26 10:00:00 +0530
 categories: [dataops, data-quality]
 tags: [dataops, devops-for-data, data-quality, data-validation, dq-frameworks, automation, pipelines, data-engineering]
 ---
+
 
 In today's fast-moving data landscape, data validation is no longer a one-time checkbox activity—it's a continuous and evolving process. Traditional approaches, which treated data quality checks as the last step before consumption, are quickly falling short, especially as data systems grow more real-time, distributed, and self-serve.
 
