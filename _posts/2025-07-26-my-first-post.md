@@ -3,7 +3,7 @@ layout: post
 title: "Modern Data Warfare: Win with DataOps & Automated DQ Frameworks"
 subtitle: "Why traditional approaches no longer work — and what a resilient data strategy looks like"
 date: 2025-07-26 10:00:00 +0530
-categories: [dataops, data-quality]
+categories: [dataops]
 tags: [dataops, devops-for-data, data-quality, data-validation, dq-frameworks, automation, pipelines, data-engineering]
 ---
 
