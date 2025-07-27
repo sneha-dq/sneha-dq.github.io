@@ -7,7 +7,6 @@ categories: [data quality]
 tags: [data quality, great expectations, flask, dqaas, python, dataops]
 ---
 
-# 🧪 Building DQaaS with Great Expectations + Flask
 
 I've recently been working on building a **data quality validation framework** that’s flexible, callable, and lightweight — something that doesn’t rely too heavily on manual CLI commands or notebooks.
 
