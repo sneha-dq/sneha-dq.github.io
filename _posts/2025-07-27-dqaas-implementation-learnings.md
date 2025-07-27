@@ -1,7 +1,6 @@
 ---
 title: "Building DQaaS: Data Quality as a Service using Great Expectations + Flask"
 date: 2025-07-27
-author: Sneha Shrivastav
 description: Learn how to turn Great Expectations into a Python-based DQaaS with Flask, enabling reusable, automated data quality validation.
 categories: [data quality]
 tags: [data quality, great expectations, flask, dqaas, python, dataops]
