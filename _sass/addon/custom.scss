@@ -2,24 +2,27 @@
 
 /* === Purple Accent Theme for Chirpy === */
 
-$primary-color: #a855f7; /* Vibrant purple */
+$primary-color: #a855f7; // Purple base
 $link-color: $primary-color;
 
-/* Links and buttons */
-a {
-  color: $primary-color;
-}
-a:hover {
-  color: darken($primary-color, 10%);
+/* === Calmer Blue for headers/titles that works in both themes === */
+$blue-accent: #3b82f6;
+
+/* Apply to post title, nav tabs, side section titles */
+.site-title,
+.navbar .site-title,
+.navbar .nav-item > a,
+.post-title,
+.sidebar-section h3,
+.sidebar-section-title,
+.trending-tags .tag-text,
+.sidebar-item-title {
+  color: $blue-accent;
 }
 
-.btn, .btn-outline {
-  border-color: $primary-color;
-  color: $primary-color;
-}
-.btn:hover {
-  background-color: $primary-color;
-  color: white;
+/* Link hover color */
+a:hover {
+  color: darken($blue-accent, 10%);
 }
 
 /* Code block border accent */
@@ -35,7 +38,7 @@ blockquote {
   font-style: italic;
 }
 
-/* Callout classes for optional use */
+/* Callouts */
 .callout {
   padding: 1rem;
   margin: 1rem 0;
@@ -44,7 +47,7 @@ blockquote {
   background: rgba(168, 85, 247, 0.1);
 }
 
-/* Dark mode support */
+/* Dark mode adjustments */
 @media (prefers-color-scheme: dark) {
   blockquote {
     background: #2a133b;
@@ -56,14 +59,15 @@ blockquote {
     color: #f3e8ff;
   }
 
-  a {
-    color: lighten($primary-color, 15%);
+  .site-title,
+  .navbar .site-title,
+  .navbar .nav-item > a,
+  .post-title,
+  .sidebar-section h3,
+  .sidebar-section-title,
+  .trending-tags .tag-text,
+  .sidebar-item-title {
+    color: lighten($blue-accent, 15%);
   }
-}
-
-/* Optional: Section titles */
-.page__content h2, .page__content h3 {
-  border-bottom: 2px solid $primary-color;
-  padding-bottom: 4px;
 }
 
