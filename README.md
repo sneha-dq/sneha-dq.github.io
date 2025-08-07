@@ -1,6 +1,6 @@
 # The Data Conundrum!
 
-**Paving the way from Data Chaos to Data Control**
+**Paving the way from Data Chaos to Data Confidence**
 
 Welcome to *The Data Conundrum!* — a blog dedicated to exploring the evolving world of **DataOps**, **Data Quality Engineering**, and **automated frameworks** that enable scalable, resilient, and high-trust data systems.
 
