@@ -52,7 +52,7 @@ Without universal definitions, businesses struggled to align on what "good quali
 
 ---
 
-## [“Defining and Measuring Traffic Data Quality” (RITA, 2006)]
+## [Defining and Measuring Traffic Data Quality (FHWA / RITA, 2002)](https://rosap.ntl.bts.gov/view/dot/4195)
 
 **Context:**  
 Many DQ frameworks relied on blanket thresholds (e.g., “99% accuracy”) unaware that fit-for-use depends on context and stakeholders.
