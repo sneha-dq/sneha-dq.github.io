@@ -52,6 +52,7 @@ Without universal definitions, businesses struggled to align on what "good quali
 
 ---
 
+![Data Quality Evolution](assets/img/What.png "Data Quality Evolution")
 ## [Defining and Measuring Traffic Data Quality (FHWA / RITA, 2002)](https://rosap.ntl.bts.gov/view/dot/4195)
 
 **Context:**  
