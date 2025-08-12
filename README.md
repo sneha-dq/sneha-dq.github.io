@@ -4,7 +4,7 @@
 
 Welcome to *The Data Conundrum!* — a blog dedicated to exploring the evolving world of **DataOps**, **Data Quality Engineering**, and **automated frameworks** that enable scalable, resilient, and high-trust data systems.
 
-Created and maintained by [Sneha Shrivastav](https://www.linkedin.com/in/snehashrivastav), a seasoned IT professional with nearly two decades of experience helping global investment banking clients solve complex data quality challenges.
+Created and maintained by [Sneha Shrivastav](https://www.linkedin.com/in/snehashrivastav), a seasoned IT professional with nearly decades of experience helping global investment banking clients solve complex data quality challenges.
 
 ---
 
