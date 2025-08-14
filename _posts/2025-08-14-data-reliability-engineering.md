@@ -6,7 +6,7 @@ categories: [data-reliability-engineering]
 tags: [data-quality, data-reliability-engineering, data-pipeline, data-ops, data-governance, data-engineering, sre]
 ---
 
-# Data Reliability Engineering – The Why, What, and How
+## Data Reliability Engineering – The Why, What, and How
 
 We’ve all heard of **Data Engineering**. It’s the discipline that builds the pipelines, moves the data from point A to point B, transforms it into usable formats, and stores it where analysts, data scientists, and applications can get to it.
 
