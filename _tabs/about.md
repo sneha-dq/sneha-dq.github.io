@@ -3,6 +3,8 @@
 icon: fas fa-info-circle
 order: 4
 title: About Me
+header: 
+    image_fullwidth: "assets/img/header-bus.jpg"
 ---
 
 A **data enthusiast** at heart, I thrive on the **challenges and opportunities** the ever-evolving **data landscape** presents. With **nearly two decades of experience** in the IT industry, I specialize in **streamlining Data Quality practices** for leading **investment banking clients**—ensuring that data remains **accurate**, **trustworthy**, and **actionable**.
