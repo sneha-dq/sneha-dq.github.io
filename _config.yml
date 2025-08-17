@@ -107,10 +107,7 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 # For the site-wide banner
-banner:
-  image: "/assets/img/header-bus.jpg" # relative to site root
-  alt: "My Custom Header"
-  hide: false
+header_image: '/assets/img/header-bus.jpg'
 
 
 comments:
